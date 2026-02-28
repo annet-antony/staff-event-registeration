@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "eLearningPortal",
-    "slug": "eLearningPortal",
+    "name": "EventRegisteration",
+    "slug": "eventregisteration",
     "platforms": [
       "ios",
       "android",
@@ -15,7 +15,7 @@
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
-      "image": "./assets/Student.png",
+      "image": "./assets/logo.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -27,6 +27,7 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "description": ""
   }
 }
